@@ -1,0 +1,13 @@
+[project]
+name = "finance-tracker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "plotly>=6.4.0",
+    "streamlit",
+]
+
+[project.scripts]
+start = "streamlit run dashboard.py"

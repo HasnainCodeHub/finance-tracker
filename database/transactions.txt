@@ -1,0 +1,4 @@
+2025-11-11,expense,Shopping,dolmen,50000000
+2025-11-11,expense,Food,Family Dinner,80000000
+2025-11-16|income|Freelance|By A Voice Agent|500000000000000
+2025-11-11|income|Business|Business|500000000000
