@@ -116,8 +116,8 @@ finance-tracker/
 
 ### 1️⃣ **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/finance-tracker-cli.git
-cd finance-tracker-cli
+git clone https://github.com/HasnainCodeHub/finance-tracker
+cd finance-tracker
 ```
 
 ### 2️⃣ **Install UV (Python Environment Manager)**
@@ -194,9 +194,9 @@ gemini
 
 | CLI Interface | Web Dashboard |
 |----------------|----------------|
-| ![CLI Demo](assets/cli_demo.png) | ![Web Dashboard](assets/dashboard.png) |
+| ![CLI Demo](cli.png) | ![Web Dashboard](dashboard.png) |
 
-*(Replace with your actual screenshots)*
+
 
 ---
 
@@ -227,8 +227,8 @@ This project was built as part of the **Panaversity / PIAIC Fintech Live Class**
 AI & Fintech Student | PIAIC / Panaversity  
 
 📫 Connect with me:  
-- 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🐙 [GitHub](https://github.com/yourusername)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hasnain-ali-developer/)  
+- 🐙 [GitHub](https://github.com/HasnainCodeHub)  
 
 ---
 
