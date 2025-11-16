@@ -231,6 +231,10 @@ AI & Fintech Student | PIAIC / Panaversity
 - 🐙 [GitHub](https://github.com/HasnainCodeHub)  
 
 ---
+## Developed By
+**Hasnain Ali Azeem**
+
+---
 
 ## 🪪 License  
 
